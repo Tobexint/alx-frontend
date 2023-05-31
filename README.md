@@ -1,1 +1,1 @@
-Repository for advanced Html, Css, and JavaScript projects..
+Repository for advanced frontend  concepts..
