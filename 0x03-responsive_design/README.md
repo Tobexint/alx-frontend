@@ -1,13 +1,13 @@
 ## Learning Objectives
 
--Mobile-first design
+- Mobile-first design
 
--Media-queries
+- Media-queries
 
--Sizes to use for responsive web design
+- Sizes to use for responsive web design
 
--How to make a website responsive
+- How to make a website responsive
 
--The differences between responsive and adaptive design
+- The differences between responsive and adaptive design
 
--CSS units that are used to make elements flexible
+- CSS units that are used to make elements flexible
